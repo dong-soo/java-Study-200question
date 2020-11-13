@@ -27,7 +27,7 @@ public class Lotto {
 				basketList.add(number);
 			}
 			if(basketList.size() >= 6) {
-				System.out.println("로또번호 6개 추출 완료");
+				System.out.println("로또번호 6개 추출 완료.");
 				break;
 				
 			}
