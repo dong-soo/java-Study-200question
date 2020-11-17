@@ -19,7 +19,7 @@ public class SignRepeat {
 		else if (n < 0)
 			System.out.println("이 값은 음수입니다.");
 		else
-			System.out.println("이 값은 0 입니다.");
+			System.out.println("이 값은 0 입니다, 아니 이거저장이 왜안된느ㅓㄴ.");
 		
 		System.out.println("다시 한번? 1-yes / 0-No:");
 		retry = stdin.nextInt();
